@@ -15,9 +15,9 @@ Dynamic Data → data ditampilkan dari controller Laravel
 
 </> Screenshot
 ![LOGIN](public/images/login.png)
-![DASHBOARD](public/images/dashboard.png)
-![PENGELOLAAN](public/images/pengeloaan.png)
-![PROFIL](public/images/login.png)
+![DASHBORD](public/images/dashbord/.png)
+![PENGELOLAAN](public/images/pengelolaan.png)
+![PROFIL](public/images/profil.png)
 
 </> Tools
 Laravel (Blade Template Engine)
