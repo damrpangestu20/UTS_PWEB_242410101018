@@ -15,7 +15,7 @@ Dynamic Data → data ditampilkan dari controller Laravel
 
 </> Screenshot
 ![LOGIN](public/images/login.png)
-![DASHBORD](public/images/dashbord/.png)
+![DASHBORD](public/images/dashbord.png)
 ![PENGELOLAAN](public/images/pengelolaan.png)
 ![PROFIL](public/images/profil.png)
 
